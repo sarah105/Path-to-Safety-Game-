@@ -1,5 +1,6 @@
 # Path-to-Safety-Game-
 ![image](https://user-images.githubusercontent.com/36243745/124397213-eff4a380-dd0e-11eb-8918-0e9db8c90a9f.png)
+
 ❖ What you are required to do:
   You will be given a prolog source file containing the level data (like the file 
 attached with this document) and you are required to make a prolog 
